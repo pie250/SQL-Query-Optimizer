@@ -79,7 +79,10 @@ Frontend (Render/Vercel)
 [https://your-frontend-link.onrender.com](url)
 Backend API
 [https://your-backend-link.onrender.com](url)
+
+
 🔗 API Endpoint
+
 Optimize Query
 POST /optimize
 Request Body
@@ -87,6 +90,7 @@ Request Body
   "query": "SELECT * FROM orders WHERE customer_id = 5"
 }
 📊 Sample Output
+
 Sequential Scan Detection
 Missing Index Suggestions
 AI Performance Analysis
