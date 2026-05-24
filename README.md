@@ -57,8 +57,6 @@ SQL-AI-Optimizer
 
 Create a .env file inside backend folder:
 
-GEMINI_API_KEY=your_gemini_api_key
-
 DATABASE_URL=your_postgresql_url
 
 MONGO_URL=your_mongodb_url
