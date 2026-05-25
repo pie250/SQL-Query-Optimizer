@@ -116,9 +116,6 @@ Database optimization learning tool
 Backend performance tuning assistant
 SQL education platform
 DevOps query monitoring tool
-📷 Screenshots (Optional)
-
-Add UI screenshots here for better GitHub visibility
 
 👨‍💻 Author
 
